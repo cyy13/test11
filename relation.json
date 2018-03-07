@@ -108,6 +108,12 @@
             "id" : "jianglin",
             "department": "游戏组",
             "info": "团队成员-开发"
+        },
+       {
+            "name": "冯力全",
+            "id" : "Flyq",
+            "department": "合约组",
+            "info": "合约"
         }
   ],
   "edges": [
@@ -195,6 +201,11 @@
             "source": "kds", 
             "target": "alai", 
             "weight": 1 
+        },
+        {
+            "source": "minakokojima",
+            "target": "Flyq",
+            "weight": 1
         }
   ]
 }
